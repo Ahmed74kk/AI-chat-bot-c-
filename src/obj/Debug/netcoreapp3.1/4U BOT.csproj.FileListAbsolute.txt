@@ -1,0 +1,16 @@
+C:\Users\Ahmed\source\repos\4U BOT\bin\Debug\netcoreapp3.1\4U BOT.exe
+C:\Users\Ahmed\source\repos\4U BOT\bin\Debug\netcoreapp3.1\4U BOT.deps.json
+C:\Users\Ahmed\source\repos\4U BOT\bin\Debug\netcoreapp3.1\4U BOT.runtimeconfig.json
+C:\Users\Ahmed\source\repos\4U BOT\bin\Debug\netcoreapp3.1\4U BOT.runtimeconfig.dev.json
+C:\Users\Ahmed\source\repos\4U BOT\bin\Debug\netcoreapp3.1\4U BOT.dll
+C:\Users\Ahmed\source\repos\4U BOT\bin\Debug\netcoreapp3.1\4U BOT.pdb
+C:\Users\Ahmed\source\repos\4U BOT\obj\Debug\netcoreapp3.1\4U BOT.csproj.AssemblyReference.cache
+C:\Users\Ahmed\source\repos\4U BOT\obj\Debug\netcoreapp3.1\_4U_BOT.Form1.resources
+C:\Users\Ahmed\source\repos\4U BOT\obj\Debug\netcoreapp3.1\4U BOT.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\4U BOT\obj\Debug\netcoreapp3.1\4U BOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\source\repos\4U BOT\obj\Debug\netcoreapp3.1\4U BOT.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\repos\4U BOT\obj\Debug\netcoreapp3.1\4U BOT.AssemblyInfo.cs
+C:\Users\Ahmed\source\repos\4U BOT\obj\Debug\netcoreapp3.1\4U BOT.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\4U BOT\obj\Debug\netcoreapp3.1\4U BOT.dll
+C:\Users\Ahmed\source\repos\4U BOT\obj\Debug\netcoreapp3.1\4U BOT.pdb
+C:\Users\Ahmed\source\repos\4U BOT\obj\Debug\netcoreapp3.1\4U BOT.genruntimeconfig.cache
