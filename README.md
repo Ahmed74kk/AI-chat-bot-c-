@@ -2,7 +2,7 @@
 
 Language : C# Windforms .net
 
-this is an ai chat bot made up with c#.net core language and it's made up by me from a-z.
+this is an ai chat bot made up with c#.net core language
 
 it's made for only the arabic language
 
